@@ -446,6 +446,8 @@ class DPCode(StrEnum):
     PRESSURE_VALUE = "pressure_value"
     PRM_CONTENT = "prm_content"
     PRM_TEMPERATURE = "prm_temperature"
+    PROG_WORKDAY = "Prog_Workday"
+    PROG_RESTDAY = "Prog_Restday"
     PTZ_CONTROL = "ptz_control"
     PTZ_STOP = "ptz_stop"
     PUMP_RESET = "pump_reset"  # Water pump reset
